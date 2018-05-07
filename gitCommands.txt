@@ -1,0 +1,6 @@
+1. go to the folder using cd
+2. git init
+3. git add .
+4. git commit -m "adding files"
+5. git remote add origin https://github.com/markwiliz30/TechWorld.git
+6. git push -u origin master
